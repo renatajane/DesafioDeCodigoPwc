@@ -11,4 +11,5 @@ Console.WriteLine(identifica.IdentificarPalindromoMaisLongo("babad"));
 var aumentaLetra = new DesafioDeCodigoPwc._4.LetraMaiuscula.PrimeiraLetraMaiuscula();
 Console.WriteLine (aumentaLetra.ConverterPrimeiraLetraEmMaiuscula("hello, how are you? i'm fine, thank you."));
 
-
+var identificaPalindromo = new DesafioDeCodigoPwc._5.ExistenciaPalindromo.ExistenciaDePalindromo();
+Console.WriteLine(identificaPalindromo.IdentificarPalindromo("racecar"));
