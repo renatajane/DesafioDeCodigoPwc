@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesafioDeCodigoPwc._3.PalindromoLongo
 {
-    internal class PalindromoMaisLongo
+    public class PalindromoMaisLongo
     {
         public string IdentificarPalindromoMaisLongo(String palavra)
         {

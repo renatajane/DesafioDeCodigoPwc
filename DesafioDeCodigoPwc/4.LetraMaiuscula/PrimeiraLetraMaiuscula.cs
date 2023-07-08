@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace DesafioDeCodigoPwc._4.LetraMaiuscula
 {
-    internal class PrimeiraLetraMaiuscula
+    public class PrimeiraLetraMaiuscula
     {
         public string ConverterPrimeiraLetraEmMaiuscula(string frase)
         {

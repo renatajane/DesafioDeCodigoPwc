@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesafioDeCodigoPwc._1.Reverter
 {
-    internal class ReverteOrdem
+    public class ReverteOrdem
     {
         public string ReverterFrase (string frase)
         {

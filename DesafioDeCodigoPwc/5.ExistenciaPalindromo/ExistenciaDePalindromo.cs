@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesafioDeCodigoPwc._5.ExistenciaPalindromo
 {
-    internal class ExistenciaDePalindromo
+    public class ExistenciaDePalindromo
     {
         public bool IdentificarPalindromo(string palavra)
         {

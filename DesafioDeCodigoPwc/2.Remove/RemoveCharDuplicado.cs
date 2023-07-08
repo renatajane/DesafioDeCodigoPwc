@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DesafioDeCodigoPwc._2.Remove
 {
-    internal class RemoveCharDuplicado
+    public class RemoveCharDuplicado
     {
         public string RemoverCaracteresDuplicados(string frase)
         {

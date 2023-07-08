@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace DesafioDeCodigoPwc.Controller
 {
-    internal class OpcaoEscolhida
+    public class OpcaoEscolhida
     {
         public void EscolherOpcao()
         {
